@@ -1,1 +1,1 @@
-This is Zikha's first git project!
+This is zikha's first git project!
